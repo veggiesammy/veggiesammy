@@ -26,7 +26,7 @@ class Skills extends Desenvolvedor {
 
 <p align="left">
 
-  <a href="#" title="LinkedIn">
+  <a href="www.linkedin.com/in/carolina-buguas-b78058269" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/carolina-buguas-b78058269" alt="LinkedIn"/></a>
 
 <!--

@@ -3,6 +3,7 @@
 [![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/veggiesammy/veggiesammy/README.es.md)
 -->
 <h1>Oi Oi! ଘ(੭ ˘ ᵕ˘)━☆ﾟ.*･｡ﾟᵕ꒳ᵕ~</h1>
+
 [![Veggie's GitHub stats](https://github-readme-stats.vercel.app/api?username=veggiesammy&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veggiesammy&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 

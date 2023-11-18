@@ -8,7 +8,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veggiesammy&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ```js
-import Desenvolvedor from "veggiesammy";
+import Desenvolvedor from "veggiesammy"
 
 class SobreMim extends Desenvolvedor {
   nome = "Carolina Buguas";
